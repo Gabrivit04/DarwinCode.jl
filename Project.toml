@@ -1,0 +1,8 @@
+name = "DarwinCode"
+uuid = "d4e8fc40-f1d9-11ec-b939-0242ac120002"
+authors = ["Gabriele Vitale <vitalegabriele18@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+BenchmarkTools = "becb17da-3bb6-5f37-9a8e-4f6c64b7cfb6"
+Random = "9a3f8284-a3f2-502b-a1d2-6d61e0f4b4c5"
